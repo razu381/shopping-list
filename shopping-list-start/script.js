@@ -4,7 +4,7 @@ let listItems = document.querySelector("#item-list")
 let filter = document.querySelector("#filter")
 let formbtn = form.querySelector("button")
 let isEditMode = false;
-// Add single items
+// Add single item
 
 function addItem(e){
     e.preventDefault()
